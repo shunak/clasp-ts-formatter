@@ -13,3 +13,8 @@ touch tsconfig.json
 }
 EOS
 
+
+rm ./exe.sh
+
+
+
